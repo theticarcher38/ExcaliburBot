@@ -1,0 +1,19 @@
+{
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bot.js",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.3",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
