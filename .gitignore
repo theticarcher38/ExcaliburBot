@@ -103,5 +103,4 @@ dist
 # TernJS port file
 .tern-port
 
-# Token File
-./config/token.json
+config/token.json
