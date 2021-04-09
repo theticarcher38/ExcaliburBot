@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # Token File
-config/token.json
+./config/token.json
